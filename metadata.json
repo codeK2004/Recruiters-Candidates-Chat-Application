@@ -1,0 +1,5 @@
+{
+  "name": "FastJob99",
+  "description": "A real-time chat application for recruiters and candidates, featuring role-based access, persistent messaging, candidate categorization, and bulk messaging.",
+  "requestFramePermissions": []
+}
